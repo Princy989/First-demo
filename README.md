@@ -1,4 +1,4 @@
 # First-demo
 This is my first git repository.
 <br>
-Author - Princy Rawat
+Author - Princy (Apna College)
